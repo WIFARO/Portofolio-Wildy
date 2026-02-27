@@ -1,18 +1,15 @@
-# Portofolio-Wildy
-Analisis data penjualan e-commerce menggunakan PostgreSQL
-
 # 🛒 E-Commerce Sales Performance Analysis
 
-## 📌 Project Overview
-Project ini bertujuan untuk melakukan analisis performa penjualan E-Commerce menggunakan **SQL**. Fokus utamanya adalah membersihkan data mentah (*data cleaning*), menganalisis tren pendapatan bulanan, serta mengidentifikasi produk terlaris (*best-selling products*) baik secara global maupun per kategori.
+## Project Overview
+Project ini bertujuan untuk melakukan analisis performa penjualan E-Commerce menggunakan SQL. Fokus utamanya adalah membersihkan data mentah (*data cleaning*), menganalisis tren pendapatan bulanan, serta mengidentifikasi produk terlaris (*best-selling products*) baik secara global maupun per kategori.
 
 Dalam project ini, saya menyelesaikan 5 studi kasus utama yang mensimulasikan permintaan tim bisnis sehari-hari.
 
-## 🛠️ Tools & Technologies
-* **Database:** PostgreSQL
+## Tools & Techniques
+* **Tools:** PostgreSQL
 * **Key Techniques:** CTE (Common Table Expressions), Window Functions (`RANK`, `PARTITION BY`), Subqueries, Date Manipulation (`DATE_TRUNC`, `INTERVAL`), String Manipulation.
 
-## 📂 Key Analysis & Insights
+## Key Analysis & Insights
 
 ### 1. Data Cleaning & Product Standardization
 Membersihkan data produk yang tidak standar untuk persiapan analisis.
