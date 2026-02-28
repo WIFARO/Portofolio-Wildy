@@ -82,7 +82,6 @@ where
 
 ### 5. Product Ranking (Global & Category)
 Ingin melihat top 3 produk dari tiap kategori 
-* **Technique:** Menggunakan `limit` dan memisahkan data menjadi perkategori
 * **Business Value:** Memudahkan tim bisnis melihat barang terbaik pada tiap kategori 
 * **Code:**
 ```sql
